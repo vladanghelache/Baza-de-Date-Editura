@@ -5,5 +5,5 @@ Limbaje utilizate:
 * PL/SQL
 
 ## Detalii proiect
-[Documentatie]()
+[Documentatie](https://github.com/vladanghelache/Baza-de-Date-Editura/blob/main/Documentatie.docx)
 
